@@ -1,5 +1,5 @@
 Data Cleaning Steps
---------------------------
+--------------------
 Removed Duplicates:
               Checked the dataset and removed duplicate rows.
 
@@ -11,5 +11,6 @@ Handled Null Values:
 
 Removed Unnecessary Data:
               Dropped columns and rows that were not needed for the analysis.
+
 
 
