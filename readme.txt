@@ -1,16 +1,9 @@
-Data Cleaning Steps
---------------------
-Removed Duplicates:
-              Checked the dataset and removed duplicate rows.
+In this project, I focused on:
+• Removing duplicate records
+• Standardizing and correcting inconsistent values
+• Checking and handling null values
+• Removing unnecessary columns and rows
 
-Standardized the Data:
-              Fixed formatting issues and made the data consistent.
+The goal was to transform raw data into a clean, structured dataset ready for analysis.
 
-Handled Null Values:
-              Reviewed missing values and decided how to deal with them.
-
-Removed Unnecessary Data:
-              Dropped columns and rows that were not needed for the analysis.
-
-
-
+Data cleaning is a critical step in any data project because accurate analysis always starts with high-quality data.
